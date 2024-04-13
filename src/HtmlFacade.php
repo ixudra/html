@@ -1,11 +1,11 @@
 <?php
 
-namespace Collective\Html;
+namespace Ixudra\Html;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Collective\Html\HtmlBuilder
+ * @see \Ixudra\Html\HtmlBuilder
  */
 class HtmlFacade extends Facade
 {

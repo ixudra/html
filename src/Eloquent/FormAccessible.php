@@ -1,6 +1,6 @@
 <?php
 
-namespace Collective\Html\Eloquent;
+namespace Ixudra\Html\Eloquent;
 
 use ReflectionClass;
 use ReflectionMethod;
