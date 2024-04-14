@@ -1,7 +1,7 @@
 {
     "name": "ixudra/html",
     "description": "HTML and Form Builders for the Laravel Framework",
-    "version": "6.1.0",
+    "version": "6.5.0",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
     "support": {
